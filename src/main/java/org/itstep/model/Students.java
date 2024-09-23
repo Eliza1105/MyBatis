@@ -1,6 +1,6 @@
 package org.itstep.model;
 
-public class Student {
+public class Students {
   private Integer studId; 
   private String name; 
   private String email;
